@@ -1,6 +1,6 @@
 # C errors
 
-Demonstration of six distinct memory and logic errors that can be made in C.
+Demonstration program (in `C`) uses a command-line argument to isolate and trigger six distinct memory and logic errors, allowing you to observe their behaviors individually.
 
 Modern compilers actively block these vulnerabilities.
 
