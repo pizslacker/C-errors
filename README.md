@@ -13,5 +13,3 @@ The six errors:
  4. Uninitialized Variable
  5. Dangling Pointer
  6. Format String Bug
-
-![Kims window](images/AmigaOS-32-Kims-Window-2021.png)
