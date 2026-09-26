@@ -23,4 +23,4 @@ strict: c-errors.c
 	@echo "Built c-errors-strict (Protections enabled)"
 
 clean:
-	rm -f c-errors-vuln c-errors-strict
+	rm -f c-errors-vulnerable c-errors-strict
