@@ -4,7 +4,7 @@ Demonstration program (in `C`) that uses a command-line argument to isolate and 
 
 Modern compilers actively block these vulnerabilities.
 
-The Makefile in this project creates two distinct builds: a vulnerable version that deliberately strips away security features to let the crashes happen, and a strict version that demonstrates how the compiler identifies the errors, and sometimes mitigates them.
+The Makefile in this project creates two distinct builds: a vulnerable version that deliberately strips away security features to let the crashes happen, and a strict version that demonstrates how the compiler identifies the errors, and mitigates them.
 
 The six errors:
  1. Buffer Overflow
